@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon index.js",
     "dev" : "index.js",
-    "build": "npm install && npm install --prefix backend && npm run build --prefix backend && vite build"
+    "build": "npm install"
   },
   "author": "vinay-singal",
   "license": "ISC",
